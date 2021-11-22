@@ -37,6 +37,7 @@ High Level Requirements :
 
 Low Level Requiremnets :
 | ID | Description |
+| ---- | ---- |
 | LLR_1 |	GRAPHICS : Graphics should be compatable to the computer specification. |
 | LLR_2	| MODE : No of modes can be specified. |
 | LLR_3 |	DIFFICULTY LEVEL : No of obstacles to be minimized the game score . |
