@@ -25,7 +25,8 @@ Where : Everyone can play this game.
 
 How : Can be operated from Personal computer or laptop.
 
-Detail Requirements :
+# Detail Requirements :
+
 High Level Requirements :
 
 | ID |	Description |
@@ -36,6 +37,7 @@ High Level Requirements :
 
 
 Low Level Requiremnets :
+
 | ID | Description |
 | ---- | ---- |
 | LLR_1 |	GRAPHICS : Graphics should be compatable to the computer specification. |
