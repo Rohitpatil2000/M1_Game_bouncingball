@@ -1,6 +1,6 @@
 M1_Game_bouncingball
 
-#SWOT Analysis
+# SWOT Analysis
 Strength :
 To feel relax and stress free we can play this game.
 This game is for fun purpose.
@@ -10,7 +10,7 @@ Weakness :
 Playing game for hours can cause a trouble for eyes.
 This may lead eye problems.
 
-#4W's and 1'H
+# 4W's and 1'H
 4W's
 
 Who : Can be played anytime.
@@ -21,7 +21,7 @@ When : Can be played from anywhere.
 
 Where : Everyone can play this game.
 
-#1'H
+# 1'H
 
 How : Can be operated from Personal computer or laptop.
 
