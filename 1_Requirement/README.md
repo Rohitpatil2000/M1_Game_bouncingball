@@ -6,7 +6,8 @@ This is a simple bouncing ball game in C language.
 In this game, there is one ball and one paddle. Gamer only needs to move the paddle in the direction of the ball. Your goal is to keep the ball bouncing.
 after the ball hits the bottom of the screen that is you miss the paddle then the will be over.
 
-##SWOT Analysis
+
+## SWOT Analysis
 Strength :
 
 To feel relax and stress free we can play this game.
@@ -17,7 +18,8 @@ Weakness :
 Playing game for hours can cause a trouble for eyes.
 This may lead eye problems.
 
-##4W's and 1'H
+## 4W's and 1'H
+
 4W's
 
 Who : Can be played anytime.
@@ -28,7 +30,7 @@ When : Can be played from anywhere.
 
 Where : Everyone can play this game.
 
-#1'H
+# 1'H
 
 How : Can be operated from Personal computer or laptop.
 
