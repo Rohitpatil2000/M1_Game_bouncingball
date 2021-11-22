@@ -8,12 +8,17 @@ after the ball hits the bottom of the screen that is you miss the paddle then th
 
 
 ## SWOT Analysis
+
 Strength :
 
 To feel relax and stress free we can play this game.
 This game is for fun purpose.
 We can access this game anytime.
+
 Weakness :
+
+Playing game for hours can cause a trouble for eyes.
+This may lead eye problems.
 
 Playing game for hours can cause a trouble for eyes.
 This may lead eye problems.
@@ -34,9 +39,9 @@ Where : Everyone can play this game.
 
 How : Can be operated from Personal computer or laptop.
 
-#Detail Requirements :
+# Detail Requirements :
 
-High Level Requirements :
+## High Level Requirements :
 
 | ID |	Description |
 | ---- | ---- |
@@ -44,7 +49,7 @@ High Level Requirements :
 | HLR_2	| MODE : Different modes can be added. |
 | HLR_3 | DIFFICULTY LEVEL : We can add more obstacles in this game. |
 
-Low Level Requiremnets :
+## Low Level Requiremnets :
 | ID | Description |
 | ---- | ---- |
 | LLR_1 | GRAPHICS : Graphics should be compatable to the computer specification. |
