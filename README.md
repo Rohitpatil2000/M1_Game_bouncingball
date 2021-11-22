@@ -22,6 +22,7 @@ When : Can be played from anywhere.
 Where : Everyone can play this game.
 
 #1'H
+
 How : Can be operated from Personal computer or laptop.
 
 Detail Requirements :
