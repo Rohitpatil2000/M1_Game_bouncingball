@@ -1,6 +1,6 @@
 Requirements of Bouncing Ball Game
 
--Capture al,the requirements with respect to system, module, interface,testing,functional and Non functional
+-Capture all, the requirements with respect to system, module, interface,testing,functional and Non functional
 
 -Planning Basic Planning of the game through the study of moving of the paddle using keys.
 
