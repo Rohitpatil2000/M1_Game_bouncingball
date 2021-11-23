@@ -1,10 +1,9 @@
-INTRODUCTION
+# INTRODUCTION :
 
-BOUNCING BALL
 This is a simple bouncing ball game in C language.
 
-In this game, there is one ball and one paddle. Gamer only needs to move the paddle in the direction of the ball. Your goal is to keep the ball bouncing.
-after the ball hits the bottom of the screen that is you miss the paddle then the will be over.
+In this game, there is one ball and one paddle. Gamer only needs to move the paddle in the direction of the ball. Your goal is to keep the ball bouncing. Here A ball bounces off the walls of a box and paddle to hit it. After the ball hits the bottom of the screen that is you miss the paddle then the will be over.
+
 
 
 ## SWOT Analysis
@@ -47,11 +46,11 @@ How : Can be operated from Personal computer or laptop.
 | ---- | ---- |
 | HLR_1	| GRAPHICS : Realistic graphics can be added. |
 | HLR_2	| MODE : Different modes can be added. |
-| HLR_3 | DIFFICULTY LEVEL : We can add more obstacles in this game. |
+| HLR_3 | DIFFICULTY LEVEL : We can increase speed of ball. |
 
 ## Low Level Requiremnets :
 | ID | Description |
 | ---- | ---- |
 | LLR_1 | GRAPHICS : Graphics should be compatable to the computer specification. |
 | LLR_2 | MODE : No of modes can be specified. |
-| LLR_3 | DIFFICULTY LEVEL : No of obstacles to be minimized the game score. |
+| LLR_3 | DIFFICULTY LEVEL : Speed of ball to be minimized the game score. |
