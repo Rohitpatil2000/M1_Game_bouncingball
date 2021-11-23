@@ -1,4 +1,4 @@
-Problem Statement:
+# INTRODUCTION :
 
 This is a simple bouncing ball game in C language.
 
