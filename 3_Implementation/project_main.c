@@ -1,3 +1,5 @@
+// BOUNCING BALL GAME
+
 #include<stdio.h>
 #include<ctype.h>
 #include<conio.h>
@@ -5,7 +7,6 @@
 #include<dos.h>
 #include<graphics.h>
 #include<time.h>
-
 int x1,y1,x2,y2,x1old,x2old,ycenter,xcenter;
 int xnewcenter,ynewcenter,radius,ballspeedx,ballspeedy;
 char sym,pit[20];
@@ -123,9 +124,12 @@ void initialize()
 	{
 		ballspeedx=-ballspeedx;
 		ballspeedy=-ballspeedy;
+		
 	}
+	
 	radius=20;
 	play();
+	
 }
 void main()
 {
