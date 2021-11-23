@@ -10,16 +10,13 @@ Weakness : Playing game for hours can cause a trouble for eyes. This may lead ey
 
 4W's
 
-Who : Anyone can play anytime.
-
+Who : Gamer can play game anytime.
 
 What : Virtual medium to play the game.
 
+When : Gamer can play game from anywhere.
 
-When : Can be played from anytime.
-
-
-Where : Everyone can play anywhere this game.
+Where : On the Laptop or PC .
 
 
 1'H
