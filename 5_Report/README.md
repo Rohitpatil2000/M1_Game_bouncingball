@@ -6,8 +6,6 @@ In this game, there is one ball and one paddle. Gamer only needs to move the pad
 
 
 
-## SWOT Analysis
-
 Strength :
 
 Anyone can feel relax and stress free we can play this game.
