@@ -10,7 +10,7 @@ In this game, there is one ball and one paddle. Gamer only needs to move the pad
 
 Strength :
 
-To feel relax and stress free we can play this game.
+Anyone can feel relax and stress free we can play this game.
 This game is for fun purpose.
 We can access this game anytime.
 
@@ -26,13 +26,13 @@ This may lead eye problems.
 
 4W's
 
-Who : Can be played anytime.
+Who : Gamer can play game anytime.
 
 What : Virtual medium to play the game.
 
-When : Can be played from anywhere.
+When : Gamer can play game from anywhere.
 
-Where : Everyone can play this game.
+Where : On the Laptop or PC .
 
 # 1'H
 

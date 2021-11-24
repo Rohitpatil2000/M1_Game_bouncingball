@@ -1,4 +1,6 @@
-// M1_Game_Bouncingball
+/* MINI PROJECT */
+/* M1_Game_Bouncingball */
+
 #include<stdio.h>
 #include<ctype.h>
 #include<conio.h>
@@ -13,6 +15,7 @@ char sym,pit[20];
 int score=0,speed=10;
 void ball()
 {
+	
 	time_t t;
 	xcenter=xnewcenter;
 	ycenter =ynewcenter;
@@ -34,6 +37,7 @@ void ball()
 	{
 		if(xnewcenter>x1 && xnewcenter<x2)
 		{
+			
 			ballspeedy=-ballspeedy;
 			srand((int)time(&t));
 			ballspeedx=random(3);
@@ -41,13 +45,16 @@ void ball()
 				ballspeedx=-ballspeedx;
 			score++;
 		}
+	
 		else
 		{
+			
 			cleardevice();
 			outtextxy(300,150,"Game Over");
 			sprintf(pit,"Score %d",score);
 			outtextxy(300,170,"Press Q to Exit");
 			getch();
+			
 		}
 		return;
 	}
@@ -69,12 +76,15 @@ void bat(char sym)
 						setfillstyle(1,13);
 						bar(x1,y1,x2,y2);
 					}
+			
 					if(x1==0)
+						
 					{
 						delay(10);
 						setfillstyle(1,13);
 						bar(x1,y1,x2,y2);
 					}
+			
 					break;
 case 'x' :	if(x2<640)
 					{
@@ -88,16 +98,21 @@ case 'x' :	if(x2<640)
 						setfillstyle(1,13);
 						bar(x1,y1,x2,y2);
 					}
+			
 					if(x2==640)
+						
 					{
 						delay(10);
 						setfillstyle(1,13);
 						bar(x1,y1,x2,y2);
 					}
+			
 					break;
 		}
 }
+
 void play()
+	
 {
 	while(inportb(0x60)!=16)
 	{
@@ -106,7 +121,9 @@ void play()
 		ball();
 	}
 }
+
 void initialize()
+	
 {
 	time_t t;
 	x1=rand();
@@ -122,6 +139,7 @@ void initialize()
 	ballspeedy=random(3);
 	if(random(3)==0)
 	{
+		
 		ballspeedx=-ballspeedx;
 		ballspeedy=-ballspeedy;
 	}
